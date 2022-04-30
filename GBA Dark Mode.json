@@ -26,7 +26,7 @@
          "bBtn":"opacity:0.3!important",
          "startBtn":"opacity:0.3!important",
          "select":"opacity:0.3!important",
-         "iOSicon":"color:#3061d7;opacity:1",
+         "iOSicon":"color:#404040;opacity:1",
          "MDicon":"color:white;opacity:1",
          "fab":"color:white;background:#3061d7!important",
          "icon":"color:#737373!important",
