@@ -26,12 +26,12 @@
          "bBtn":"opacity:0.3!important",
          "startBtn":"opacity:0.3!important",
          "select":"opacity:0.3!important",
-         "iOSicon":"color:#404040;opacity:1",
-         "MDicon":"color:#404040;opacity:1",
-         "fab":"color:white;background:#3061d7!important",
+         "iOSicon":"color:#e0e0e0;opacity:1",
+         "MDicon":"color:#e0e0e0;opacity:1",
+         "fab":"color:white;background:#e0e0e0!important",
          "icon":"color:#737373!important",
-         "tint":"color:#404040;",
-         "button":"background:#404040!important",
+         "tint":"color:#e0e0e0;",
+         "button":"background:#e0e0e0!important",
          "custom":[
             {
                "eclipse":"",
