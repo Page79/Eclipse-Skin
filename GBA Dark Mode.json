@@ -24,6 +24,8 @@
          "down":"opacity:0.3!important",
          "aBtn":"opacity:0.3!important",
          "bBtn":"opacity:0.3!important",
+         "xBtn":"opacity:0.3!important",
+         "yBtn":"opacity:0.3!important",
          "startBtn":"opacity:0.3!important",
          "select":"opacity:0.3!important",
          "iOSicon":"color:#e0e0e0;opacity:1",
